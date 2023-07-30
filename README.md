@@ -30,4 +30,4 @@ Bagel will refresh the program’s logic at the same refresh rate as your monito
 ![image](https://github.com/mithracodes/pacman-game/assets/95140934/ee2f4725-adc8-4cba-9a1d-0d6f8bdbab67)
 ![image](https://github.com/mithracodes/pacman-game/assets/95140934/28ea64d0-7b78-4899-b7bc-5a54c5cd3485)
 
-** Note: This is my submission for Project 1&2 of SWEN20003 Object Oriented Software Development in Sem 1 2023. **
+** Note: This is my submission for *Project 1 & 2 of SWEN20003 Object Oriented Software Development in Sem 1 2023*. **
